@@ -1,13 +1,4 @@
-/*#include<stdio.h>
-int main(){
-    char a[50]="PARAS";
-    char b[50];
-    printf("Name before: %s\n",a);
-    printf("Enter the name\n");
-    scanf("%49s",b);
-    printf("Name after: %s\n",b);
-    return 0;
-}*/
+
 #include<stdio.h>
 #include<string.h>
 int main(){
